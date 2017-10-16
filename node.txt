@@ -1,0 +1,27 @@
+Why nodeJS
+
+1. Non blocking I/O, means it can do what you need a server to do very well. Take requests and never blocks while fulfilling its queue.
+Built on top of google b8 engine
+
+2. Being able to use one single programming language to write both client and server code.
+
+3. Cross platform -  runs on any operating system
+
+4. NodeJs is no longer a fad. Its technology choice of many website.
+
+5. Node is not a bloated framework. We can make as slim as we need. 
+
+6. Modern day server should be delivering JSON data and Node.js does this well.
+
+
+
+
+
+
+Major comapnies
+
+LinkedIn
+Wal-mart
+Paypal
+Uber
+Netflix
